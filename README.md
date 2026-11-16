@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lavish Chiniya 👋
 
-<!--
-**Ral-06/Ral-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack MERN Developer** and **Unreal Engine Game Developer** who enjoys building practical, scalable, and engaging digital experiences.
 
-Here are some ideas to get you started:
+I'm currently expanding my skills in **Artificial Intelligence**, with a focus on **Data Science** and **Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+- Full-stack web applications using the **MERN stack**
+- Interactive games and experiences with **Unreal Engine**
+- SaaS products designed for real-world business needs
+
+## Featured Project
+
+### Multi-Tenant Cafe SaaS
+
+I built a multi-tenant cafe management platform used by multiple cafe owners and their staff. Each cafe can manage its operations through a dedicated workspace within the same SaaS application, making it easier to serve and manage multiple businesses from one platform.
+
+## Current Focus
+
+- Building robust full-stack applications
+- Developing Unreal Engine games
+- Learning and applying Artificial Intelligence, Data Science, and Machine Learning
